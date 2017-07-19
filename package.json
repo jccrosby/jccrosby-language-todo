@@ -1,6 +1,6 @@
 {
   "name": "jccrosby-language-todo",
-  "version": "0.0.1",
+  "version": "0.30.0",
   "description": "Custom TODO/FIXME highlighting support in Atom",
   "engines": {
     "atom": "*",
