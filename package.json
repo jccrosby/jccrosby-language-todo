@@ -6,14 +6,14 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "https://github.com/jccrosby/language-todo",
+  "homepage": "https://github.com/jccrosby/jccrosby-language-todo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jccrosby/language-todo"
+    "url": "https://github.com/jccrosby/jccrosby-language-todo"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jccrosby/language-todo/issues"
+    "url": "https://github.com/jccrosby/jccrosby-language-todo"
   },
   "devDependencies": {
     "coffeelint": "^1.10.1"
